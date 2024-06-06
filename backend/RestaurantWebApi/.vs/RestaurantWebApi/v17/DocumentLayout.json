@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630C67C0-657E-4EE5-A8B8-4675C9584C88}|RestaurantWebApiTest\\RestaurantWebApiTest.csproj|c:\\users\\wazpc\\onedrive\\documentos\\rumosolucoesrestaurantapi\\backend\\restaurantwebapi\\restaurantwebapitest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C67C0-657E-4EE5-A8B8-4675C9584C88}|RestaurantWebApiTest\\RestaurantWebApiTest.csproj|solutionrelative:restaurantwebapitest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C67C0-657E-4EE5-A8B8-4675C9584C88}|RestaurantWebApiTest\\RestaurantWebApiTest.csproj|c:\\users\\wazpc\\onedrive\\documentos\\rumosolucoesrestaurantapi\\backend\\restaurantwebapi\\restaurantwebapitest\\ordercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C67C0-657E-4EE5-A8B8-4675C9584C88}|RestaurantWebApiTest\\RestaurantWebApiTest.csproj|solutionrelative:restaurantwebapitest\\ordercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApiTest\\UserControllerTest.cs",
+              "RelativeDocumentMoniker": "RestaurantWebApiTest\\UserControllerTest.cs",
+              "ToolTip": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApiTest\\UserControllerTest.cs",
+              "RelativeToolTip": "RestaurantWebApiTest\\UserControllerTest.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAYwMgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:49:24.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApiTest\\OrderControllerTest.cs",
+              "RelativeDocumentMoniker": "RestaurantWebApiTest\\OrderControllerTest.cs",
+              "ToolTip": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApiTest\\OrderControllerTest.cs",
+              "RelativeToolTip": "RestaurantWebApiTest\\OrderControllerTest.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAIwIQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:22:25.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
