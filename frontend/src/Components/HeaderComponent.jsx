@@ -34,7 +34,7 @@ function  HeaderComponent() {
        <StyledLink to='/create-user'>Criar Usuário</StyledLink>
        <StyledLink to='/create-order'>Criar Pedido</StyledLink>
             
-       {user&&(<SyledSpan>Usuário logado:{user._id}</SyledSpan>)}
+       {user&&(<SyledSpan>Usuário logado: {user._id}</SyledSpan>)}
        
         </div>
         </StyledNav>

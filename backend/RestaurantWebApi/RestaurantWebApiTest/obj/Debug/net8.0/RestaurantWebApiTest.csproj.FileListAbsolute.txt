@@ -431,3 +431,4 @@ C:\Users\WazPC\OneDrive\Documentos\RumoSolucoesRestaurantApi\backend\RestaurantW
 C:\Users\WazPC\OneDrive\Documentos\RumoSolucoesRestaurantApi\backend\RestaurantWebApi\RestaurantWebApiTest\obj\Debug\net8.0\RestaurantWebApiTest.pdb
 C:\Users\WazPC\OneDrive\Documentos\RumoSolucoesRestaurantApi\backend\RestaurantWebApi\RestaurantWebApiTest\obj\Debug\net8.0\RestaurantWebApiTest.genruntimeconfig.cache
 C:\Users\WazPC\OneDrive\Documentos\RumoSolucoesRestaurantApi\backend\RestaurantWebApi\RestaurantWebApiTest\obj\Debug\net8.0\ref\RestaurantWebApiTest.dll
+C:\Users\WazPC\OneDrive\Documentos\RumoSolucoesRestaurantApi\backend\RestaurantWebApi\RestaurantWebApiTest\obj\Debug\net8.0\RestaurantWebApiTest.sourcelink.json

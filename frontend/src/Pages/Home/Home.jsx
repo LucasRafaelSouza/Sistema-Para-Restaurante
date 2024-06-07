@@ -17,7 +17,7 @@ function Home() {
     <p>Este projeto permite a criação, visualização e gerenciamento de pedidos feitos em um restaurante</p>
     </section>
     <Sectionlinks>
-    {(!user)?<StyledLink to='/user-login' > <SyledSpan>Realiza Login</SyledSpan></StyledLink>:
+    {(!user)?<StyledLink to='/user-login' > <SyledSpan>Realizar Login</SyledSpan></StyledLink>:
       <StyledLink to='/view-orders' > <SyledSpan>Visualizar pedidos</SyledSpan></StyledLink>
     }
 

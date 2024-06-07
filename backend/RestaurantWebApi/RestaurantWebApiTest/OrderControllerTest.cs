@@ -46,7 +46,7 @@ namespace RestaurantWebApiTest
         {
             var order = new Order
             {
-                DishName = "Prato teste1",
+                DishName = "PratoTestPost",
                 ClientName = "Nome Teste1",
                 TableNumber = 1,
                 DrinkQuantity = 1,
@@ -84,8 +84,8 @@ namespace RestaurantWebApiTest
         {
             var order = new Order
             {
-                DishName = "Prato teste2",
-                ClientName = "Nome Teste2",
+                DishName = "PratoTestGetById",
+                ClientName = "Nome Teste",
                 TableNumber = 1,
                 DrinkQuantity = 1,
                 DrinkName = "Nome teste"
@@ -122,18 +122,7 @@ namespace RestaurantWebApiTest
             deleteResponse.EnsureSuccessStatusCode();
 
         }
-        /*
-        [Fact]
-        public async Task GetById_ReturnsNotFoundForInvalidId()
-        {
-            
-            var response = await _client.GetAsync("/api/order/nonexistentId");
-
-            
-            Assert.Equal(System.Net.HttpStatusCode.NotFound, response.StatusCode);
-
-           
-        }*/
+        
     }
 
 

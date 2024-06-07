@@ -23,7 +23,7 @@ export const OrderItemHeaderDiv = styled.div`
   border-bottom: 1px solid #ddd;
   margin-bottom: 10px;
 `;
-//ARRUMAR OS ESPAÇOS
+
 
 export const StyledP = styled.p`
   text-align: justify;

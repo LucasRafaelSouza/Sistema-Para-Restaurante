@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{630C67C0-657E-4EE5-A8B8-4675C9584C88}|RestaurantWebApiTest\\RestaurantWebApiTest.csproj|c:\\users\\wazpc\\onedrive\\documentos\\rumosolucoesrestaurantapi\\backend\\restaurantwebapi\\restaurantwebapitest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630C67C0-657E-4EE5-A8B8-4675C9584C88}|RestaurantWebApiTest\\RestaurantWebApiTest.csproj|solutionrelative:restaurantwebapitest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630C67C0-657E-4EE5-A8B8-4675C9584C88}|RestaurantWebApiTest\\RestaurantWebApiTest.csproj|c:\\users\\wazpc\\onedrive\\documentos\\rumosolucoesrestaurantapi\\backend\\restaurantwebapi\\restaurantwebapitest\\ordercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630C67C0-657E-4EE5-A8B8-4675C9584C88}|RestaurantWebApiTest\\RestaurantWebApiTest.csproj|solutionrelative:restaurantwebapitest\\ordercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48A1DC87-9CE1-4D12-A545-2C81D2BDC5BA}|RestaurantWebApi\\RestaurantWebApi.csproj|c:\\users\\wazpc\\onedrive\\documentos\\rumosolucoesrestaurantapi\\backend\\restaurantwebapi\\restaurantwebapi\\restaurantwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{48A1DC87-9CE1-4D12-A545-2C81D2BDC5BA}|RestaurantWebApi\\RestaurantWebApi.csproj|solutionrelative:restaurantwebapi\\restaurantwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApiTest\\UserControllerTest.cs",
-              "RelativeDocumentMoniker": "RestaurantWebApiTest\\UserControllerTest.cs",
-              "ToolTip": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApiTest\\UserControllerTest.cs",
-              "RelativeToolTip": "RestaurantWebApiTest\\UserControllerTest.cs",
-              "ViewState": "AQIAALoAAAAAAAAAAAAYwMgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:49:24.499Z",
+              "Title": "RestaurantWebApi.http",
+              "DocumentMoniker": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApi\\RestaurantWebApi.http",
+              "RelativeDocumentMoniker": "RestaurantWebApi\\RestaurantWebApi.http",
+              "ToolTip": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApi\\RestaurantWebApi.http",
+              "RelativeToolTip": "RestaurantWebApi\\RestaurantWebApi.http",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-07T01:03:09.188Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApiTest\\OrderControllerTest.cs",
-              "RelativeDocumentMoniker": "RestaurantWebApiTest\\OrderControllerTest.cs",
-              "ToolTip": "C:\\Users\\WazPC\\OneDrive\\Documentos\\RumoSolucoesRestaurantApi\\backend\\RestaurantWebApi\\RestaurantWebApiTest\\OrderControllerTest.cs",
-              "RelativeToolTip": "RestaurantWebApiTest\\OrderControllerTest.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAIwIQAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T04:22:25.342Z"
             }
           ]
         }

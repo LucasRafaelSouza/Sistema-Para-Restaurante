@@ -36,7 +36,7 @@ namespace RestaurantWebApiTest
         {
             var user = new User
             {
-                _id = "teste@teste.com",
+                _id = "testePost",
                 Password = "Nome Teste1",
                 Role = "cozinha"
             };
@@ -70,7 +70,7 @@ namespace RestaurantWebApiTest
         {
             var user = new User
             {
-                _id = "teste@teste.com",
+                _id = "testeGetByid",
                 Password = "Nome Teste1",
                 Role = "cozinha"
             };
@@ -110,7 +110,7 @@ namespace RestaurantWebApiTest
         {
             var user = new User
             {
-                _id = "teste@teste1.com",
+                _id = "testeConflict",
                 Password = "Password",
                 Role = "cozinha"
             };
@@ -167,7 +167,7 @@ namespace RestaurantWebApiTest
         {
             var user = new User
             {
-                _id = "TestEmail",
+                _id = "testWrongPassword",
                 Password = "Password",
                 Role = "copa"
             };
@@ -198,7 +198,7 @@ namespace RestaurantWebApiTest
         {
             var user = new User
             {
-                _id = "TestEmail2",
+                _id = "testAuthenticateOk",
                 Password = "Password",
                 Role = "copa"
             };

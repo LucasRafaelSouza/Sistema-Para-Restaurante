@@ -6,7 +6,7 @@ import { useAuth } from "../../Hooks/UseAuth";
 
 function OrderItem(props){
     const { user } = useAuth();
-    //console.log(user);
+    
     
 
     const [orderDeletedError, setOrderDeletedError] = useState(false);
