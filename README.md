@@ -35,7 +35,7 @@ Para rodar os testes:
 Backend
 
 ```
-  cd backend
+  cd backend/RestaurantWebApi
 ```
 
 ```
