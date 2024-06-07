@@ -50,7 +50,7 @@ Backend
   dotnet run --launch-profile http
 ```
 
-Alternativamente, também é possível rodar a aplicação pelo Visual Studio, basta escolher o profile Http na parte superior da tela.
+Alternativamente, também é possível rodar a aplicação pelo Visual Studio, basta abrir a solução do projeto e escolher o profile Http na parte superior da tela.
 
 Para rodar os testes do Backend:
 
